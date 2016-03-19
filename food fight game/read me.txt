@@ -1,0 +1,4 @@
+up/space/z = jump
+left_arrow = left
+right_arrow = right
+get enemys to get food
